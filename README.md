@@ -1,6 +1,6 @@
 # 🔌 Energie-Control — Outil de gestion d’interventions (Projet PHP)
 
-Projet réalisé dans le cadre du cours **Développement Web PHP** (Université Paris Cité).  
+Projet réalisé dans le cadre du cours **Développement Web PHP** (ECE Paris).  
 Durée : **15/01/2024 → 22/03/2024**
 
 Ce projet consistait à développer un outil complet de gestion d’interventions pour une société fictive, **AccordEnergie**, en utilisant PHP, MySQL et le moteur de templates **Twig**.
